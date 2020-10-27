@@ -1,0 +1,71 @@
+{
+	"search.exclude": {
+		"**/node_modules": true,
+		"**/bower_components": true,
+		"**/.sfdx": true
+	},
+	"files.autoSave": "afterDelay",
+	"window.zoomLevel": -0.5,
+	"workbench.editor.enablePreview": false,
+	"[Log]": {
+		"editor.fontSize": 11
+	},
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features",
+	},
+	"[xml]": {
+		"editor.defaultFormatter": "redhat.vscode-xml"
+	},
+	"editor.formatOnSave": false,
+	"editor.formatOnType": false,
+	"editor.tabSize": 4,
+	"editor.fontWeight": "500",
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontFamily": "Consolas",
+	"[css]": {
+		"editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+	},
+	"workbench.colorTheme": "Default Light+",
+	"bracketPairColorizer.independentPairColors": [
+		[
+			"()",
+			[
+				"BlueViolet",
+				"CornflowerBlue",
+				"DarkOrchid"
+			],
+			"MediumSeaGreen"
+		],
+		[
+			"[]",
+			[
+				"BlueViolet",
+				"CornflowerBlue",
+				"DarkOrchid"
+			],
+			"MediumSeaGreen"
+		],
+		[
+			"{}",
+			[
+				"BlueViolet",
+				"CornflowerBlue",
+				"DarkOrchid"
+			],
+			"MediumSeaGreen"
+		]
+	],
+	"bracketPairColorizer.colorMode": "Independent",
+	"bracketPairColorizer.activeScopeCSS": [
+		"borderStyle : solid",
+		"borderWidth : 5px",
+		"borderColor : {color}; opacity: 0.5"
+	],
+	"salesforcedx-vscode-apex.java.home": "D:\\Softwares\\Java\\jdk-11.0.6"
+}
